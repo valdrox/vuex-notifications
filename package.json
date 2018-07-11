@@ -1,8 +1,8 @@
 {
-  "name": "vuex-toast",
+  "name": "vuex-notifications",
   "version": "0.1.3",
   "author": "valdrox",
-  "description": "Advanced toast notifications using Vuex",
+  "description": "Advanced notifications using Vuex",
   "keywords": [
     "UI",
     "Flux",
